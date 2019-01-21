@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  margin: 20px 0 40px 0;
+}
+.btn-game {
+  background: rgb(27, 27, 27);
+  border: none;
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: rgb(209, 205, 205);
+  font-size: 16px;
+  outline: none;
+}
+.btn-game:hover {
+  background: rgb(65, 64, 64);
+}
+.btn-game:active {
+  transform: translateY(2px);
+}
+.score {
+  font-size: 20px;
+  font-weight: 800;
+  margin: 40px 0;
+}
